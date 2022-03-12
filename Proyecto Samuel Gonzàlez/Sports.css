@@ -1,0 +1,31 @@
+p{
+	text-align: justify;
+	font-size: 24px;
+	color: #006400;
+}
+
+body{
+	margin-left: 40px;
+	margin-top: 40px;
+	margin-right: 400px;
+	background-color: coral;
+}
+
+ul{
+	text-align: justify;
+	font-size: 24px;
+	color: #006400;
+}
+
+img{
+	border-style: ridge;
+	border-width: 20px;
+	border-color: #0000CD;
+}
+b{
+	color: #4B0082;
+}
+
+h1{
+	color: #800000;
+}
